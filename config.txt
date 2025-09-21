@@ -1,0 +1,95 @@
+/configver 2
+/panels [<1>]
+/panels/dark-mode false
+/panels/panel-1/enter-opacity uint32 100
+/panels/panel-1/icon-size uint32 16
+/panels/panel-1/leave-opacity uint32 100
+/panels/panel-1/length uint32 100
+/panels/panel-1/nrows uint32 1
+/panels/panel-1/plugin-ids [<1>, <3>, <16>, <13>, <4>, <2>, <5>, <6>, <9>, <14>, <11>, <15>, <18>, <17>, <12>, <19>, <20>, <7>, <21>]
+/panels/panel-1/position 'p=8;x=1280;y=1425'
+/panels/panel-1/position-locked true
+/panels/panel-1/size uint32 28
+/plugins/clipman/tweaks/never-confirm-history-clear false
+/plugins/clipman/tweaks/popup-at-pointer false
+/plugins/notes/global/background-color 'GTK+'
+/plugins/notes/global/font-description 'DejaVu Sans Mono 10'
+/plugins/notes/global/tabs-position 3
+/plugins/notes/global/version '1.12.0'
+/plugins/plugin-1 'applicationsmenu'
+/plugins/plugin-1/button-icon 'session-properties'
+/plugins/plugin-1/button-title 'Applications'
+/plugins/plugin-11 'xfce4-clipman-plugin'
+/plugins/plugin-12 'cpufreq'
+/plugins/plugin-13 'separator'
+/plugins/plugin-13/style uint32 0
+/plugins/plugin-14 'xkb'
+/plugins/plugin-15 'xfce4-notes-plugin'
+/plugins/plugin-16 'places'
+/plugins/plugin-16/show-button-type 2
+/plugins/plugin-16/show-recent-number 17
+/plugins/plugin-17 'power-manager-plugin'
+/plugins/plugin-18 'pulseaudio'
+/plugins/plugin-18/enable-keyboard-shortcuts true
+/plugins/plugin-18/enable-multimedia-keys true
+/plugins/plugin-18/known-players 'firefox;org.strawberrymusicplayer.strawberry;smplayer'
+/plugins/plugin-18/show-notifications uint32 0
+/plugins/plugin-19 'xfce4-sensors-plugin'
+/plugins/plugin-2 'tasklist'
+/plugins/plugin-2/grouping false
+/plugins/plugin-20 'systemload'
+/plugins/plugin-20/cpu/label ''
+/plugins/plugin-20/memory/label ''
+/plugins/plugin-20/network/enabled false
+/plugins/plugin-20/swap/enabled false
+/plugins/plugin-20/timeout uint32 5000
+/plugins/plugin-20/uptime/enabled false
+/plugins/plugin-21 'weather'
+/plugins/plugin-21/cache-max-age 172800
+/plugins/plugin-21/forecast/days 7
+/plugins/plugin-21/forecast/layout 0
+/plugins/plugin-21/labels/label0 3
+/plugins/plugin-21/location/latitude '65.011787'
+/plugins/plugin-21/location/longitude '25.470198'
+/plugins/plugin-21/location/name 'Oulu, Oulun seutukunta'
+/plugins/plugin-21/msl 0
+/plugins/plugin-21/offset '+03:00'
+/plugins/plugin-21/power-saving true
+/plugins/plugin-21/round true
+/plugins/plugin-21/scrollbox/animate true
+/plugins/plugin-21/scrollbox/color 'rgba(0,0,0,0)'
+/plugins/plugin-21/scrollbox/lines 1
+/plugins/plugin-21/scrollbox/show true
+/plugins/plugin-21/scrollbox/use-color false
+/plugins/plugin-21/single-row true
+/plugins/plugin-21/theme-dir '/usr/share/xfce4/weather/icons/liquid'
+/plugins/plugin-21/timezone 'Europe/Helsinki'
+/plugins/plugin-21/tooltip-style 1
+/plugins/plugin-21/units/altitude 0
+/plugins/plugin-21/units/apparent-temperature 2
+/plugins/plugin-21/units/precipitation 0
+/plugins/plugin-21/units/pressure 0
+/plugins/plugin-21/units/temperature 0
+/plugins/plugin-21/units/windspeed 0
+/plugins/plugin-3 'separator'
+/plugins/plugin-3/expand false
+/plugins/plugin-3/style uint32 0
+/plugins/plugin-4 'pager'
+/plugins/plugin-4/miniature-view true
+/plugins/plugin-4/rows uint32 1
+/plugins/plugin-4/wrap-workspaces true
+/plugins/plugin-5 'separator'
+/plugins/plugin-5/expand true
+/plugins/plugin-5/style uint32 0
+/plugins/plugin-6 'systray'
+/plugins/plugin-6/hidden-items [<'blueman'>]
+/plugins/plugin-6/hide-new-items false
+/plugins/plugin-6/icon-size 22
+/plugins/plugin-6/known-items [<'zoom'>, <'Strawberry'>, <'ViberPC'>, <'blueman'>]
+/plugins/plugin-6/known-legacy-items [<'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (74%)'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (73%)'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (68%)'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (67%)'>, <'gigolo'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (70%)'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (69%)'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (71%)'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (66%)'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (84%)'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (82%)'>, <'gbgoffice'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (77%)'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (75%)'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (76%)'>, <'hexchat'>, <'wi-fi network connection “dna-wifi-5ghz-9d46” active: dna-wifi-5ghz-9d46 (72%)'>, <'clipman'>, <'networkmanager applet'>, <'notes'>, <'xfce4-power-manager'>, <'blueman'>]
+/plugins/plugin-6/single-row false
+/plugins/plugin-6/square-icons false
+/plugins/plugin-6/symbolic-icons false
+/plugins/plugin-7 'mateappletloader'
+/plugins/plugin-9 'separator'
+/plugins/plugin-9/style uint32 0
